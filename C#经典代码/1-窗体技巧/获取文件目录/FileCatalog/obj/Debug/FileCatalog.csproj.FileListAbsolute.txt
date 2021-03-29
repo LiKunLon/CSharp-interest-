@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\bin\Debug\FileCatalog.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\bin\Debug\FileCatalog.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.pdb
