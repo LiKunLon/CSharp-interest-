@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drawpartImage", "drawpartImage\drawpartImage.csproj", "{E66A0CE6-0513-4FE4-A696-B8F131292216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66A0CE6-0513-4FE4-A696-B8F131292216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66A0CE6-0513-4FE4-A696-B8F131292216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66A0CE6-0513-4FE4-A696-B8F131292216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66A0CE6-0513-4FE4-A696-B8F131292216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
